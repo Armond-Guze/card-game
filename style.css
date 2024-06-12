@@ -34,7 +34,7 @@ main {
     var(--card-width-lg) * (var(--num-cards) / 2) +
       var(--card-horizontal-space-lg)
   );
-  display: grid;
+  display: grid;iljhk
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   grid-template-areas:
